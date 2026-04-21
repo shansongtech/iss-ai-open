@@ -1,0 +1,4 @@
+interface:
+  display_name: "闪送开放平台"
+  short_description: "使用闪送开放平台 CLI 调用接口"
+  default_prompt: "使用 $iss-open-cli 调用闪送开放平台 CLI 接口并排查响应。"
